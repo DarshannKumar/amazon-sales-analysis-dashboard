@@ -13,6 +13,9 @@ This repository contains a dynamic dashboard created using Power BI to analyze A
 - **Detailed Metrics**: Displays total sales, sale count, and seller count with visual representation.
 - **Interactive Elements**: Users can interact with different parts of the dashboard to see real-time updates.
 
+  
+![Amazon Dashboard](./3.png)
+
 ### Files in This Repository
 
 1. **Amazon Product Analysis Power BI Dashboard (PBIX File)**: The main Power BI file used to create the dashboard.
@@ -20,6 +23,9 @@ This repository contains a dynamic dashboard created using Power BI to analyze A
 3. **Amazon Fashion YT.csv**: CSV file with fashion sales data from Amazon.
 4. **Amazon Measure Script**: A script file with DAX measures used for calculations in the dashboard.
 5. **URL Image Word File**: A Word document containing URLs to images used in the dashboard.
+
+
+![Amazon Dashboard](./1.png)
 
 ### Requirements
 
