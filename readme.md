@@ -36,7 +36,7 @@ This repository contains a dynamic dashboard created using Power BI to analyze A
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/Tancvisharma31/amazon-product-analysis-dashboard.git
+   git clone https://github.com/DarshannKumar/amazon-sales-analysis-dashboard.git
    ```
 2. **Open the Power BI Dashboard**:
    - Use Power BI Desktop to open the `Amazon Product Analysis Dashboard.pbix` file.
